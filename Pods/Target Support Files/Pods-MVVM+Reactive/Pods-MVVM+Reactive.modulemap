@@ -1,0 +1,6 @@
+framework module Pods_MVVM_Reactive {
+  umbrella header "Pods-MVVM+Reactive-umbrella.h"
+
+  export *
+  module * { export * }
+}
